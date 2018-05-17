@@ -1,0 +1,6 @@
+target 'Ruler' do
+ use_frameworks!
+ pod 'RealmSwift'
+ pod 'OpenCV'
+ pod 'R.swift'
+end
